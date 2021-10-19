@@ -53,20 +53,21 @@ font-size:34px;
 text-align: justify;
 padding:201px;
 }
-.alls{background-color: rgb(194, 203, 58); font-size:34px;
+.alls{background-color: rgb(194, 203, 58); 
+    font-size:35px;
     
 
 text-align: justify;
-padding:200px;}
+padding:220px;}
 
 @media (max-width: 768px) and (min-width:700px){
     
 .navbar{background-color:#d1e2f0;
 
 border-radius:none;}
-.navbar li{padding: 10px 10px;
+.navbar li{padding: 8px 8px;
 list-style:none;
-margin:5px 5px;
+margin:4px 4px;
 float:left;
 }
 .navbar li:hover{
@@ -75,15 +76,15 @@ float:left;
     background-color:#03192b ;
 }
 .navbar ul{overflow:auto;}
-.navbar li a {padding:10px 10px;
+.navbar li a {padding:8px 8px;
 text-decoration:none;
 color:black;
 }
 .navbar li a:hover{color:white;}
 .start{background-color: rgb(66, 253, 106);
 
-padding:200px ;
-margin:auto;font-size:34px;
+padding:50px ;
+margin:auto;font-size:20px;
 text-align:justify;}
 .why{padding: 10px 10px;
 color:antiquewhite;
@@ -105,8 +106,8 @@ border-radius: 10px;
 font-size:15px;}
 .whyy{background-color: rgb(161, 201, 238);
 
-padding:50px;
-font-size:20px;
+padding:40px;
+font-size:15px;
 text-align:justify;
 }
 .solutions{background-color: #15609c;
@@ -124,9 +125,9 @@ padding:50px;}
     .navbar{background-color:#d1e2f0;
 
 border-radius:none;}
-.navbar li{padding: 10px 10px;
+.navbar li{padding: 6px 6px;
 list-style:none;
-margin:5px 5px;
+margin:3px 3px;
 float:left;
 }
 .navbar li:hover{
@@ -135,14 +136,14 @@ float:left;
     background-color:#03192b ;
 }
 .navbar ul{overflow:auto;}
-.navbar li a {padding:10px 10px;
+.navbar li a {padding:6px 6px;
 text-decoration:none;
 color:black;
 }
 .navbar li a:hover{color:white;}
 .start{background-color: rgb(66, 253, 106);
 
-padding:50px ;
+padding:30px ;
 margin:auto;font-size:15px;
 text-align:justify;}
 .why{padding: 10px 10px;
@@ -174,7 +175,7 @@ color:white;
 font-size::20px;
 
 text-align: justify;
-padding: 50px;
+padding: 30px;
 }
 .alls{background-color: rgb(194, 203, 58); 
 font-size::15px;
@@ -240,6 +241,6 @@ padding::500px;
 font-size::50px;
 
 text-align: justify;
-padding:200px;}
+padding:500px;}
 
 }
