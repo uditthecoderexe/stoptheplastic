@@ -60,7 +60,7 @@ padding:201px;
 text-align: justify;
 padding:220px;}
 
-@media (max-width: 768px) and (min-width:700px){
+@media and (max-width: 768px) and (min-width:700px){
     
 .navbar{background-color:#d1e2f0;
 
@@ -121,7 +121,7 @@ padding: 50px;
 font-size:20px;
 padding:50px;}
 }
-@media (max-width:700px){
+@media and (max-width:700px){
     .navbar{background-color:#d1e2f0;
 
 border-radius:none;}
@@ -181,7 +181,7 @@ padding: 30px;
 font-size::15px;
 padding:20x;}
 }
-@media (min-width: 2500px){
+@media and (min-width: 2500px){
     .navbar{background-color:#d1e2f0;
 
 border-radius:none;}
