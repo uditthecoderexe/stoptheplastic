@@ -121,7 +121,7 @@ padding: 50px;
 font-size:20px;
 padding:50px;}
 }
-@media (max width:700px){
+@media (max-width:700px){
     .navbar{background-color:#d1e2f0;
 
 border-radius:none;}
