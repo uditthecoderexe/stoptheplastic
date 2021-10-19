@@ -1,0 +1,245 @@
+.navbar{background-color:#d1e2f0;
+
+border-radius:none;}
+.navbar li{padding:15px 15px;
+list-style:none;
+margin:10px 10px;
+float:left;
+}
+.navbar li:hover{
+    color:white;
+ 
+    background-color:#03192b ;
+}
+.navbar ul{overflow:auto;}
+.navbar li a {padding:15px 15px;
+text-decoration:none;
+color:black;
+}
+.navbar li a:hover{color:white;}
+.start{background-color: rgb(66, 253, 106);
+
+padding:200px ;
+margin:auto;font-size:30px;
+text-align:justify;}
+.why{padding: 10px 10px;
+color:antiquewhite;
+
+background-color: black;
+border-radius: 10px;
+font-size:15px;}
+.solution{padding: 10px 10px;
+color:antiquewhite;
+
+background-color: black;
+border-radius: 10px;
+font-size:15px;}
+.all{padding: 10px 10px;
+
+color:antiquewhite;
+background-color: black;
+border-radius: 10px;
+font-size:15px;}
+.whyy{background-color: rgb(161, 201, 238);
+
+padding:201px;
+font-size:34px;
+text-align:justify;
+}
+.solutions{background-color: #15609c;
+color:white;
+font-size:34px;
+
+text-align: justify;
+padding:201px;
+}
+.alls{background-color: rgb(194, 203, 58); 
+font-size::34px;
+
+text-align: justify;
+padding:200px;}
+
+@media (max-width: 768px) and (min-width:700px){
+    
+.navbar{background-color:#d1e2f0;
+
+border-radius:none;}
+.navbar li{padding: 10px 10px;
+list-style:none;
+margin:5px 5px;
+float:left;
+}
+.navbar li:hover{
+    color:white;
+ 
+    background-color:#03192b ;
+}
+.navbar ul{overflow:auto;}
+.navbar li a {padding:10px 10px;
+text-decoration:none;
+color:black;
+}
+.navbar li a:hover{color:white;}
+.start{background-color: rgb(66, 253, 106);
+
+padding:200px ;
+margin:auto;font-size:34px;
+text-align:justify;}
+.why{padding: 10px 10px;
+color:antiquewhite;
+
+background-color: black;
+border-radius: 10px;
+font-size:15px;}
+.solution{padding: 10px 10px;
+color:antiquewhite;
+
+background-color: black;
+border-radius: 10px;
+font-size:15px;}
+.all{padding: 10px 10px;
+
+color:antiquewhite;
+background-color: black;
+border-radius: 10px;
+font-size:15px;}
+.whyy{background-color: rgb(161, 201, 238);
+
+padding:50px;
+font-size:20px;
+text-align:justify;
+}
+.solutions{background-color: #15609c;
+color:white;
+font-size::20px;
+
+text-align: justify;
+padding: 50px;
+}
+.alls{background-color: rgb(194, 203, 58); 
+font-size:20px;
+padding:50px;}
+}
+@media (max width:700px){
+    .navbar{background-color:#d1e2f0;
+
+border-radius:none;}
+.navbar li{padding: 10px 10px;
+list-style:none;
+margin:5px 5px;
+float:left;
+}
+.navbar li:hover{
+    color:white;
+ 
+    background-color:#03192b ;
+}
+.navbar ul{overflow:auto;}
+.navbar li a {padding:10px 10px;
+text-decoration:none;
+color:black;
+}
+.navbar li a:hover{color:white;}
+.start{background-color: rgb(66, 253, 106);
+
+padding:50px ;
+margin:auto;font-size:15px;
+text-align:justify;}
+.why{padding: 10px 10px;
+color:antiquewhite;
+
+background-color: black;
+border-radius: 10px;
+font-size:15px;}
+.solution{padding: 10px 10px;
+color:antiquewhite;
+
+background-color: black;
+border-radius: 10px;
+font-size:15px;}
+.all{padding: 10px 10px;
+
+color:antiquewhite;
+background-color: black;
+border-radius: 10px;
+font-size:15px;}
+.whyy{background-color: rgb(161, 201, 238);
+
+padding:20px;
+font-size:15px;
+text-align:justify;
+}
+.solutions{background-color: #15609c;
+color:white;
+font-size::20px;
+
+text-align: justify;
+padding: 50px;
+}
+.alls{background-color: rgb(194, 203, 58); 
+font-size::15px;
+padding:20x;}
+}
+@media (min-width: 2500px){
+    .navbar{background-color:#d1e2f0;
+
+border-radius:none;}
+.navbar li{padding:30px 30px;
+list-style:none;
+margin:15px 15px;
+float:left;
+}
+.navbar li:hover{
+    color:white;
+ 
+    background-color:#03192b ;
+}
+.navbar ul{overflow:auto;}
+.navbar li a {padding:30px 30px;
+text-decoration:none;
+color:black;
+}
+.navbar li a:hover{color:white;}
+.start{background-color: rgb(66, 253, 106);
+
+padding:500px ;
+margin:auto;font-size:50px;
+text-align:justify;}
+.why{padding: 10px 10px;
+color:antiquewhite;
+
+background-color: black;
+border-radius: 10px;
+font-size:50px;}
+.solution{padding: 10px 10px;
+color:antiquewhite;
+
+background-color: black;
+border-radius: 10px;
+font-size:15px;}
+.all{padding: 10px 10px;
+
+color:antiquewhite;
+background-color: black;
+border-radius: 10px;
+font-size:50px;}
+.whyy{background-color: rgb(161, 201, 238);
+
+padding:500px;
+font-size:50px;
+text-align:justify;
+}
+.solutions{background-color: #15609c;
+color:white;
+font-size::50px;
+
+text-align: justify;
+padding::500px;
+}
+.alls{background-color: rgb(194, 203, 58); 
+font-size::50px;
+
+text-align: justify;
+padding:200px;}
+
+}
