@@ -181,7 +181,7 @@ padding: 15px;
 font-size:10px;
 padding:15px;}
 }
-@media  (min-width: 2500px){
+@media  (min-width:1900px){
     .navbar{background-color:#d1e2f0;
 
 border-radius:none;}
@@ -203,8 +203,8 @@ color:black;
 .navbar li a:hover{color:white;}
 .start{background-color: rgb(66, 253, 106);
 
-padding:500px ;
-margin:auto;font-size:50px;
+padding:700px ;
+margin:auto;font-size:70px;
 text-align:justify;}
 .why{padding: 10px 10px;
 color:antiquewhite;
@@ -217,7 +217,7 @@ color:antiquewhite;
 
 background-color: black;
 border-radius: 10px;
-font-size:15px;}
+font-size:50px;}
 .all{padding: 10px 10px;
 
 color:antiquewhite;
@@ -226,21 +226,21 @@ border-radius: 10px;
 font-size:50px;}
 .whyy{background-color: rgb(161, 201, 238);
 
-padding:500px;
-font-size:50px;
+padding:700px;
+font-size:70px;
 text-align:justify;
 }
 .solutions{background-color: #15609c;
 color:white;
-font-size::50px;
+font-size:70px;
 
 text-align: justify;
-padding::500px;
+padding:700px;
 }
 .alls{background-color: rgb(194, 203, 58); 
-font-size::50px;
+font-size:70px;
 
 text-align: justify;
-padding:500px;}
+padding:700px;}
 
 }
