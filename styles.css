@@ -204,8 +204,8 @@ color:black;
 .navbar li a:hover{color:white;}
 .start{background-color: rgb(66, 253, 106);
 
-padding:250px;
-margin:auto;font-size:70px;
+padding:300px;
+margin:auto;font-size:100px;
 text-align:justify;}
 .why{padding: 10px 10px;
 color:antiquewhite;
@@ -227,21 +227,21 @@ border-radius: 10px;
 font-size:50px;}
 .whyy{background-color: rgb(161, 201, 238);
 
-padding:250px;
-font-size:70px;
+padding:300px;
+font-size:100px;
 text-align:justify;
 }
 .solutions{background-color: #15609c;
 color:white;
-font-size:70px;
+font-size:100px;
 
 text-align: justify;
-padding:250px
+padding:300px;
 }
 .alls{background-color: rgb(194, 203, 58); 
-font-size:70px;
+font-size:100px;
 
 text-align: justify;
-padding:250px;
+padding:300px;
 
 }
