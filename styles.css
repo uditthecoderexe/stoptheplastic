@@ -205,7 +205,7 @@ color:black;
 .navbar li a:hover{color:white;}
 .start{background-color: rgb(66, 253, 106);
 
-padding:200px;
+padding:150px;
 margin:auto;
     font-size:80px;
 text-align:justify;}
@@ -229,7 +229,7 @@ border-radius: 10px;
 font-size:50px;}
 .whyy{background-color: rgb(161, 201, 238);
 
-padding:200px;
+padding:150px;
 font-size:80px;
 text-align:justify;
 }
@@ -238,13 +238,13 @@ color:white;
 font-size:80px;
 
 text-align: justify;
-padding:200px;
+padding:150px;
 }
 .alls{background-color: rgb(194, 203, 58); 
 font-size:80px;
 
 text-align: justify;
-padding:200px;
+padding:150px;
     }
 }
 @media  (min-width:2500px){
@@ -269,7 +269,7 @@ color:black;
 .navbar li a:hover{color:white;}
 .start{background-color: rgb(66, 253, 106);
 
-padding:400px;
+padding:200px;
 margin:auto;
     font-size:110px;
 text-align:justify;}
@@ -293,7 +293,7 @@ border-radius: 10px;
 font-size:70px;}
 .whyy{background-color: rgb(161, 201, 238);
 
-padding:400px;
+padding:200px;
 font-size:110px;
 text-align:justify;
 }
@@ -302,12 +302,12 @@ color:white;
 font-size:110px;
 
 text-align: justify;
-padding:400px;
+padding:200px;
 }
 .alls{background-color: rgb(194, 203, 58); 
 font-size:110px;
 
 text-align: justify;
-padding:400px;
+padding:200px;
     }
 }
