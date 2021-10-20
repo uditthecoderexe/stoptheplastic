@@ -172,14 +172,14 @@ text-align:justify;
 }
 .solutions{background-color: #15609c;
 color:white;
-font-size::20px;
+font-size:15px;
 
 text-align: justify;
 padding: 30px;
 }
 .alls{background-color: rgb(194, 203, 58); 
-font-size::15px;
-padding:20x;}
+font-size:15px;
+padding:20px;}
 }
 @media  (min-width: 2500px){
     .navbar{background-color:#d1e2f0;
