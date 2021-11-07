@@ -17,6 +17,18 @@ text-decoration:none;
 color:black;
 }
 .navbar li a:hover{color:white;}
+.images{
+background-color: rgb(161, 201, 238);
+ margin:15px;
+ width:250px;
+    
+}
+.images1{
+background-color: rgb(161, 201, 238);
+ margin:15px;
+ width:250px;
+    
+}
 .start{background-color: rgb(66, 253, 106);
 
 padding:100px ;
@@ -87,6 +99,18 @@ padding:50px ;
 margin:auto;
     font-size:20px;
 text-align:justify;}
+   .images{
+background-color: rgb(161, 201, 238);
+ margin:15px;
+ width:150px;
+    
+}
+.images1{
+background-color: rgb(161, 201, 238);
+ margin:15px;
+ width:150px;
+    
+}
 .why{padding: 10px 10px;
 color:antiquewhite;
 
@@ -147,6 +171,18 @@ color:black;
 padding:30px ;
 margin:auto;font-size:15px;
 text-align:justify;}
+    .images{
+background-color: rgb(161, 201, 238);
+ margin:15px;
+ width:100px;
+    
+}
+.images1{
+background-color: rgb(161, 201, 238);
+ margin:15px;
+ width:100px;
+    
+}
 .why{padding: 10px 10px;
 color:antiquewhite;
 
@@ -209,6 +245,18 @@ padding:150px;
 margin:auto;
     font-size:80px;
 text-align:justify;}
+    .images{
+background-color: rgb(161, 201, 238);
+ margin:30px;
+ width:470px;
+    
+}
+.images1{
+background-color: rgb(161, 201, 238);
+ margin:30px;
+ width:470px;
+    
+}
 .why{padding: 10px 10px;
 color:antiquewhite;
 
@@ -273,6 +321,18 @@ padding:200px;
 margin:auto;
     font-size:110px;
 text-align:justify;}
+    .images{
+background-color: rgb(161, 201, 238);
+ margin:15px;
+ width:600px;
+    
+}
+.images1{
+background-color: rgb(161, 201, 238);
+ margin:15px;
+ width:600px;
+    
+}
 .why{padding: 10px 10px;
 color:antiquewhite;
 
@@ -336,7 +396,20 @@ color:black;
 padding:125px;
 margin:auto;
     font-size:50px;
-text-align:justify;}
+text-align:justify;
+    }
+    .images{
+background-color: rgb(161, 201, 238);
+ margin:15px;
+ width:350px;
+    
+}
+.images1{
+background-color: rgb(161, 201, 238);
+ margin:15px;
+ width:350px;
+    
+}
 .why{padding: 10px 10px;
 color:antiquewhite;
 
