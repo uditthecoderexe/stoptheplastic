@@ -22,7 +22,7 @@ background-color: rgb(161, 201, 238);
  margin:15px;
  width:500px;
  margin-top:15px;
- padding:10px;   
+ padding:none;   
     
     
 }
@@ -31,7 +31,7 @@ background-color: rgb(161, 201, 238);
  margin:15px;
  width:500px;
     margin-top:15px;
-    padding:10px;
+    padding:none;
     
 }
 .start{background-color: rgb(66, 253, 106);
@@ -107,16 +107,18 @@ text-align:justify;}
    .images{
 background-color: rgb(161, 201, 238);
  margin:15px;
- width:300px;
+ width:350px;
  margin-top:15px;
-       padding:10px;
-       
+ padding:none;   
+    
     
 }
 .images1{
 background-color: rgb(161, 201, 238);
  margin:15px;
- width:300px;
+ width:350px;
+    margin-top:15px;
+    padding:none;
     
 }
 .why{padding: 10px 10px;
@@ -183,9 +185,9 @@ text-align:justify;}
 background-color: rgb(161, 201, 238);
  margin:15px;
  width:200px;
-        margin-top:15px;
-        padding:10px;
-        
+ margin-top:15px;
+ padding:none;   
+    
     
 }
 .images1{
@@ -193,8 +195,7 @@ background-color: rgb(161, 201, 238);
  margin:15px;
  width:200px;
     margin-top:15px;
-    padding:10px;
-    
+    padding:none;
     
 }
 .why{padding: 10px 10px;
@@ -261,18 +262,19 @@ margin:auto;
 text-align:justify;}
     .images{
 background-color: rgb(161, 201, 238);
- margin:30px;
+ margin:15px;
  width:800px;
  margin-top:15px;
-        padding:10px;
+ padding:none;   
+    
     
 }
 .images1{
 background-color: rgb(161, 201, 238);
- margin:30px;
+ margin:15px;
  width:800px;
     margin-top:15px;
-    padding:10px;
+    padding:none;
     
 }
 .why{padding: 10px 10px;
@@ -339,21 +341,21 @@ padding:200px;
 margin:auto;
     font-size:110px;
 text-align:justify;}
-    .images{
+   .images{
 background-color: rgb(161, 201, 238);
  margin:15px;
  width:1200px;
-margin-top:15px;
-padding:10px;
-        
+ margin-top:15px;
+ padding:none;   
+    
+    
 }
 .images1{
 background-color: rgb(161, 201, 238);
  margin:15px;
  width:1200px;
     margin-top:15px;
-    padding:10px;
-    
+    padding:none;
     
 }
 .why{padding: 10px 10px;
@@ -421,22 +423,21 @@ margin:auto;
     font-size:50px;
 text-align:justify;
     }
-    .images{
+ .images{
 background-color: rgb(161, 201, 238);
  margin:15px;
  width:700px;
  margin-top:15px;
-        padding:10px;
-        
+ padding:none;   
+    
     
 }
 .images1{
 background-color: rgb(161, 201, 238);
  margin:15px;
  width:700px;
- margin-top:15p;
-    padding:10px;
-    
+    margin-top:15px;
+    padding:none;
     
 }
 .why{padding: 10px 10px;
