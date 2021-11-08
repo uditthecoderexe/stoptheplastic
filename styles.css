@@ -21,6 +21,9 @@ color:black;
 background-color: rgb(161, 201, 238);
  margin:15px;
  width:500px;
+ margin-top:15px;
+ padding:10px;   
+    
     
 }
 .images1{
@@ -103,6 +106,9 @@ text-align:justify;}
 background-color: rgb(161, 201, 238);
  margin:15px;
  width:300px;
+ margin-top:15px;
+       padding:10px;
+       
     
 }
 .images1{
@@ -175,12 +181,18 @@ text-align:justify;}
 background-color: rgb(161, 201, 238);
  margin:15px;
  width:200px;
+        margin-top:15px;
+        padding:10px;
+        
     
 }
 .images1{
 background-color: rgb(161, 201, 238);
  margin:15px;
  width:200px;
+    margin-top:15px;
+    padding:10px;
+    
     
 }
 .why{padding: 10px 10px;
@@ -249,12 +261,16 @@ text-align:justify;}
 background-color: rgb(161, 201, 238);
  margin:30px;
  width:800px;
+ margin-top:15px;
+        padding:10px;
     
 }
 .images1{
 background-color: rgb(161, 201, 238);
  margin:30px;
  width:800px;
+    margin-top:15px;
+    padding:10px;
     
 }
 .why{padding: 10px 10px;
@@ -325,12 +341,17 @@ text-align:justify;}
 background-color: rgb(161, 201, 238);
  margin:15px;
  width:1200px;
-    
+margin-top:15px;
+padding:10px;
+        
 }
 .images1{
 background-color: rgb(161, 201, 238);
  margin:15px;
  width:1200px;
+    margin-top:15px;
+    padding:10px;
+    
     
 }
 .why{padding: 10px 10px;
@@ -402,12 +423,18 @@ text-align:justify;
 background-color: rgb(161, 201, 238);
  margin:15px;
  width:700px;
+ margin-top:15px;
+        padding:10px;
+        
     
 }
 .images1{
 background-color: rgb(161, 201, 238);
  margin:15px;
  width:700px;
+ margin-top:15p;
+    padding:10px;
+    
     
 }
 .why{padding: 10px 10px;
