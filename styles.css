@@ -4,7 +4,7 @@ border-radius:none;}
 .navbar li{padding:15px 15px;
 list-style:none;
 margin:10px 10px;
-float:left;
+float:left;font-family: 'Roboto', sans-serif;
 }
 .navbar li:hover{
     color:white;
@@ -16,7 +16,7 @@ float:left;
 text-decoration:none;
 color:black;
 }
-.navbar li a:hover{color:white;}
+.navbar li a:hover{color:white;font-family: 'Roboto', sans-serif;}
 .images{
 
  margin:15px;
@@ -34,7 +34,7 @@ color:black;
     padding:none;
     
 }
-.start{background-color: rgb(66, 253, 106);
+.start{background-color: rgb(66, 253, 106);font-family: 'Roboto', sans-serif;
 
 padding:100px ;
 margin:auto;font-size:30px;
@@ -51,19 +51,19 @@ color:antiquewhite;
 background-color: black;
 border-radius: 10px;
 font-size:15px;}
-.all{padding: 10px 10px;
+.all{padding: 10px 10px;font-family: 'Roboto', sans-serif;
 
 color:antiquewhite;
 background-color: black;
 border-radius: 10px;
 font-size:15px;}
-.whyy{background-color: rgb(161, 201, 238);
+.whyy{background-color: rgb(161, 201, 238);font-family: 'Roboto', sans-serif;
 
 padding:100px;
 font-size:34px;
 text-align:justify;
 }
-.solutions{background-color: #15609c;
+.solutions{background-color: #15609c;font-family: 'Roboto', sans-serif;
 color:white;
 font-size:34px;
 
@@ -71,7 +71,7 @@ text-align: justify;
 padding:100px;
 }
 .alls{background-color: rgb(194, 203, 58); 
-    font-size:35px;
+    font-size:35px;font-family: 'Roboto', sans-serif;
     
 
 text-align: justify;
@@ -176,7 +176,7 @@ text-decoration:none;
 color:black;
 }
 .navbar li a:hover{color:white;}
-.start{background-color: rgb(66, 253, 106);
+.start{background-color: rgb(66, 253, 106);font-family: 'Roboto', sans-serif;
 
 padding:30px ;
 margin:auto;font-size:15px;
@@ -197,13 +197,13 @@ text-align:justify;}
     padding:none;
     
 }
-.why{padding: 10px 10px;
+.why{padding: 10px 10px;font-family: 'Roboto', sans-serif;
 color:antiquewhite;
 
 background-color: black;
 border-radius: 10px;
 font-size:15px;}
-.solution{padding: 10px 10px;
+.solution{padding: 10px 10px;font-family: 'Roboto', sans-serif;
 color:antiquewhite;
 
 background-color: black;
@@ -217,7 +217,7 @@ border-radius: 10px;
 font-size:15px;}
 .whyy{background-color: rgb(161, 201, 238);
 
-padding:30px;
+padding:30px;font-family: 'Roboto', sans-serif;
 font-size:15px;
 text-align:justify;
 }
@@ -228,7 +228,7 @@ font-size:15px;
 text-align: justify;
 padding: 30px;
 }
-.alls{background-color: rgb(194, 203, 58); 
+.alls{background-color: rgb(194, 203, 58); font-family: 'Roboto', sans-serif;
 font-size:15px;
 padding:30px;
 }
@@ -253,7 +253,7 @@ text-decoration:none;
 color:black;
 }
 .navbar li a:hover{color:white;}
-.start{background-color: rgb(66, 253, 106);
+.start{background-color: rgb(66, 253, 106);font-family: 'Roboto', sans-serif;
 
 padding:150px;
 margin:auto;
@@ -276,38 +276,38 @@ text-align:justify;}
     padding:none;
     
 }
-.why{padding: 10px 10px;
+.why{padding: 10px 10px;font-family: 'Roboto', sans-serif;
 color:antiquewhite;
 
 background-color: black;
 border-radius: 10px;
 font-size:50px;}
-.solution{padding: 10px 10px;
+.solution{padding: 10px 10px;font-family: 'Roboto', sans-serif;
 color:antiquewhite;
 
 background-color: black;
 border-radius: 10px;
 font-size:50px;}
-.all{padding: 10px 10px;
+.all{padding: 10px 10px;font-family: 'Roboto', sans-serif;
 
 color:antiquewhite;
 background-color: black;
 border-radius: 10px;
 font-size:50px;}
-.whyy{background-color: rgb(161, 201, 238);
+.whyy{background-color: rgb(161, 201, 238);font-family: 'Roboto', sans-serif;
 
 padding:150px;
 font-size:80px;
 text-align:justify;
 }
-.solutions{background-color: #15609c;
+.solutions{background-color: #15609c;font-family: 'Roboto', sans-serif;font-family: 'Roboto', sans-serif;
 color:white;
 font-size:80px;
 
 text-align: justify;
 padding:150px;
 }
-.alls{background-color: rgb(194, 203, 58); 
+.alls{background-color: rgb(194, 203, 58); font-family: 'Roboto', sans-serif;
 font-size:80px;
 
 text-align: justify;
@@ -334,7 +334,7 @@ text-decoration:none;
 color:black;
 }
 .navbar li a:hover{color:white;}
-.start{background-color: rgb(66, 253, 106);
+.start{background-color: rgb(66, 253, 106);font-family: 'Roboto', sans-serif;
 
 padding:200px;
 margin:auto;
@@ -356,39 +356,39 @@ text-align:justify;}
     padding:none;
     
 }
-.why{padding: 10px 10px;
+.why{padding: 10px 10px;font-family: 'Roboto', sans-serif;
 color:antiquewhite;
 
 background-color: black;
 border-radius: 10px;
 font-size:70px;}
-.solution{padding: 10px 10px;
+.solution{padding: 10px 10px;font-family: 'Roboto', sans-serif;
 color:antiquewhite;
 
 background-color: black;
 border-radius: 10px;
 font-size:70px;}
-.all{padding: 10px 10px;
+.all{padding: 10px 10px;font-family: 'Roboto', sans-serif;
 
 color:antiquewhite;
 background-color: black;
 border-radius: 10px;
 font-size:70px;}
-.whyy{background-color: rgb(161, 201, 238);
+.whyy{background-color: rgb(161, 201, 238);font-family: 'Roboto', sans-serif;
 
 padding:200px;
 font-size:110px;
 text-align:justify;
 }
 .solutions{background-color: #15609c;
-color:white;
+color:white;font-family: 'Roboto', sans-serif;
 font-size:110px;
 
 text-align: justify;
 padding:200px;
 }
 .alls{background-color: rgb(194, 203, 58); 
-font-size:110px;
+font-size:110px;font-family: 'Roboto', sans-serif;
 
 text-align: justify;
 padding:200px;
@@ -415,7 +415,7 @@ color:black;
 }
 .navbar li a:hover{color:white;}
 .start{background-color: rgb(66, 253, 106);
-
+font-family: 'Roboto', sans-serif;
 padding:125px;
 margin:auto;
     font-size:50px;
@@ -440,36 +440,36 @@ text-align:justify;
 }
 .why{padding: 10px 10px;
 color:antiquewhite;
-
+font-family: 'Roboto', sans-serif;
 background-color: black;
 border-radius: 10px;
 font-size:30px;}
 .solution{padding: 10px 10px;
-color:antiquewhite;
+color:antiquewhite;font-family: 'Roboto', sans-serif;
 
 background-color: black;
 border-radius: 10px;
 font-size:30px;}
-.all{padding: 10px 10px;
+.all{padding: 10px 10px;font-family: 'Roboto', sans-serif;
 
 color:antiquewhite;
 background-color: black;
 border-radius: 10px;
 font-size:30px;}
-.whyy{background-color: rgb(161, 201, 238);
+.whyy{background-color: rgb(161, 201, 238);font-family: 'Roboto', sans-serif;
 
 padding:125px;
 font-size:50px;
 text-align:justify;
 }
-.solutions{background-color: #15609c;
+.solutions{background-color: #15609c;font-family: 'Roboto', sans-serif;
 color:white;
 font-size:50px;
 
 text-align: justify;
 padding:125px;
 }
-.alls{background-color: rgb(194, 203, 58); 
+.alls{background-color: rgb(194, 203, 58); font-family: 'Roboto', sans-serif;
 font-size:50px;
 
 text-align: justify;
